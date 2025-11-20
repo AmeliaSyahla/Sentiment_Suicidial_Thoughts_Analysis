@@ -1,0 +1,9 @@
+{
+  "slang_dict_size": 0,
+  "vectorizer_features": 501,
+  "classes": [
+    "negatif",
+    "netral",
+    "positif"
+  ]
+}
