@@ -1,1 +1,7 @@
 .venv
+# Ignore model files
+main/indobert_sentiment_best.pth
+main/indobert_sentiment_model/
+*.bin
+*.pth
+
