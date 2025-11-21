@@ -1,0 +1,16 @@
+{
+  "model_name": "indolem/indobert-base-uncased",
+  "max_length": 128,
+  "num_labels": 3,
+  "label2id": {
+    "negatif": 0,
+    "netral": 1,
+    "positif": 2
+  },
+  "id2label": {
+    "0": "negatif",
+    "1": "netral",
+    "2": "positif"
+  },
+  "test_accuracy": 0.876773711725168
+}
